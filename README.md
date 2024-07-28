@@ -1,4 +1,4 @@
-# Restaurant-Clustering (Zomato)
+# Restaurant Clustering (Zomato)
 **Objective:**
 The goal of this project was to perform clustering analysis on Zomato restaurant data to identify distinct groups or clusters of restaurants based on various features such as ratings, sentiment scores from reviews, cost, and cuisine types. This analysis aimed to uncover hidden patterns and insights that could be valuable for restaurant recommendations and strategic decision-making.
 
